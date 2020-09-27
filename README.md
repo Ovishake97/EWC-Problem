@@ -1,2 +1,2 @@
 # EWC-Problem
-It is the first practice problem 
+It is the second user case 
